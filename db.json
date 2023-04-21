@@ -1,9 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "dogs": [
+    {
+      "name": "cherry",
+      "age": "10",
+      "place": "Pune",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Tommy",
+      "age": "3",
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 2
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "people": [
+    {
+      "ownerName": "ritik",
+      "ownerEmail": "ritik@gmail.com",
+      "ownerContact": "8998345322",
+      "id": 1
+    },
+    {
+      "ownerName": "ram",
+      "ownerEmail": "ram@gmail.com",
+      "ownerContact": "23333",
+      "id": 2
+    }
+  ]
 }
