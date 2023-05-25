@@ -13,13 +13,53 @@
     },
     {
       "name": "smith",
-      "image": "",
+      "image": "https://example.com/doctor-image.jpg",
       "specialization": "Dermatologist",
       "experience": "3",
       "date": "23/12/1990",
       "slots": "3",
       "fee": "140",
       "id": 2
+    },
+    {
+      "name": "kevin",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "14",
+      "date": "23/12/1990",
+      "slots": "11",
+      "fee": "699",
+      "id": 3
+    },
+    {
+      "name": "sonu",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "9",
+      "date": "23/12/1990",
+      "slots": "3",
+      "fee": "999",
+      "id": 4
+    },
+    {
+      "name": "neha",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "30",
+      "date": "23/12/1990",
+      "slots": "22",
+      "fee": "1220",
+      "id": 5
+    },
+    {
+      "name": "sumit",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "30",
+      "date": "23/12/1990",
+      "slots": "12",
+      "fee": "1400",
+      "id": 6
     }
   ],
   "users": [
@@ -34,6 +74,28 @@
       "email": "ram",
       "password": "ram",
       "id": 2
+    },
+    {
+      "username": "swanik",
+      "email": "swanik",
+      "password": "swanik",
+      "id": 3
+    },
+    {
+      "username": "ritik",
+      "email": "ritik",
+      "password": "ritik",
+      "id": 4
+    },{
+      "username": "yash",
+      "email": "yash",
+      "password": "yash",
+      "id": 5
+    },{
+      "username": "ashish",
+      "email": "ashish",
+      "password": "ashish",
+      "id": 6
     }
   ]
 }
